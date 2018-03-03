@@ -20,6 +20,8 @@ h3{
 
 ul{
 	font-size: 1.20em;
+	font-weight: bold;
+	text-decoration: none;
 }
 
 footer{
@@ -29,4 +31,6 @@ footer{
 
 a{
 	color: #009999;
+	text-decoration: none;
 }	
+
